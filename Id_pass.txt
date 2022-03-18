@@ -1,0 +1,6 @@
+use this card number and password(fixed)
+========================================
+
+card= 183002045
+pin= 123321
+max balance=5000000
